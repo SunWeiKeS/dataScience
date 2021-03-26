@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf13_saver_net.ckpt"
+all_model_checkpoint_paths: "tf13_saver_net.ckpt"
